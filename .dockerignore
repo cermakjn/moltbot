@@ -1,0 +1,20 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+LICENSE
+*.md
+
+# GitHub
+.github/
+
+# IDE
+.vscode/
+.idea/
+
+# Local development
+.env
+.env.*
+*.log
